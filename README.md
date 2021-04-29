@@ -1,8 +1,18 @@
-# Getting Started with Create React App
+# React-Movie-APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was really fun to work on. As a movie nerd, this particular project piqued my interest and decided wanted to do this! As I came across some challenges I learned alot by doing this.
 
-## Available Scripts
+Technologies: React.js, HTML, & CSS. 
+API: https://developers.themoviedb.org/3/getting-started/introduction
+
+#What can it do? 
+
+You can browse movies by searching for titles. If you hover over with your mouse an overview will slide up and have a brief synopsis about the movie. The API has 10's of thousands movie titles you can browse from. 
+
+# Live Demo: https://wonderful-lewin-a6b573.netlify.app/
+
+
+## Instructions to download code and run app. 
 
 In the project directory, you can run:
 

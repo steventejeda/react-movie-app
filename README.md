@@ -1,6 +1,6 @@
 # React-Movie-APP
 
-This project was really fun to work on. As a movie nerd, this particular project piqued my interest and decided wanted to do this! As I came across some challenges I learned alot by doing this.
+This project was really fun to work on. As a movie nerd, this particular project piqued my interest and ultimately decided to do this! Although I came across some challenges, this experience was very valuable.
 
 Technologies: React.js, HTML, & CSS. 
 API: https://developers.themoviedb.org/3/getting-started/introduction

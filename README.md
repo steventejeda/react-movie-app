@@ -3,6 +3,7 @@
 This project was really fun to work on. As a movie nerd, this particular project piqued my interest and ultimately decided to do this! Although I came across some challenges, this experience was very valuable.
 
 Technologies: React.js, HTML, & CSS. 
+
 API: https://developers.themoviedb.org/3/getting-started/introduction
 
 #What can it do? 
